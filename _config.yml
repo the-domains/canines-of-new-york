@@ -1,4 +1,3 @@
-layout_spectrum: 0.43195711611770093
 typography_spectrum: 0.07850784412585199
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.43195711611770093
 analytics:
   google: null
   facebook: null
@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Our Dogs
+    id: eb232f56-2635-400a-abd9-ee77fba65d07
+    type: content
 favicon: null
 title: Canines of New York
 description: Somebody New
