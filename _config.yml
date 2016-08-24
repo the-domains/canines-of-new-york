@@ -28,6 +28,9 @@ navigation:
   - name: Our Dogs
     id: eb232f56-2635-400a-abd9-ee77fba65d07
     type: content
+  - name: When the Dog Decides Where You Live
+    id: 8ec01e14-8e0e-46e4-83db-226b5e6a5fc8
+    type: content
 favicon: null
 title: Canines of New York
 description: Somebody New
