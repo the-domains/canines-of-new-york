@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Our Dogs
-    id: eb232f56-2635-400a-abd9-ee77fba65d07
-    type: content
 favicon: null
 title: Canines of New York
 description: Somebody New
