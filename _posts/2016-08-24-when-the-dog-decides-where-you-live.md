@@ -50,17 +50,14 @@ app_links:
     type: android
     namespace: google
     package: com.nytimes.android
-isBasedOnUrl: >-
-  http://www.nytimes.com/2016/08/21/realestate/when-the-dog-decides-where-you-live.html?&moduleDetail=section-news-0&action=click&contentCollection=Real%20Estate&region=Footer&module=MoreInSection&version=WhatsNext&contentID=WhatsNext&pgtype=article
 title: When the Dog Decides Where You Live
-datePublished: '2016-08-24T04:07:31.111Z'
-dateModified: '2016-08-24T04:07:22.126Z'
+datePublished: '2016-08-24T04:25:16.749Z'
+dateModified: '2016-08-24T04:25:16.289Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-when-the-dog-decides-where-you-live.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: when-the-dog-decides-where-you-live/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
