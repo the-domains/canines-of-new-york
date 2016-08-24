@@ -1,19 +1,4 @@
-name: Canines of New York
-favicon: null
-layout_spectrum: 0.5672471928410232
 typography_spectrum: 0.6558490770403296
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.21262895222753286
   saturation: 0.7177358479239047
   rhythmicContrast: 0.6882238870020956
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5672471928410232
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Canines of New York
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Somebody New
 purpose: []
